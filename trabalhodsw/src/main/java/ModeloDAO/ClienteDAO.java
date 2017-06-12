@@ -8,7 +8,9 @@ public class ClienteDAO {
 //	private String nome;
 //	private String cpf;
 //	private String end;
-
+// login 
+// senha
+	
 	private Connection connection;
 	
 	public ClienteDAO() throws ClassNotFoundException {
